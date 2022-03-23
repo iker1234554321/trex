@@ -1,2 +1,1 @@
-# trex
-juego de trex
+# JUEGOS-COMPATIBLES-CON-DISPOSITIVOS-AM2
